@@ -1,0 +1,22 @@
+
+.arrow-top {
+    float:right;
+    display:scroll; 
+    position:fixed; 
+    bottom:5px; 
+    right:5px;
+    width: 40px;
+    height: 40px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+
+}
+
+@media screen and (min-width: 768px) {
+    .arrow-top {
+        width: 60px;
+        height: 60px;
+        
+    
+    }
+}
